@@ -28,3 +28,7 @@ Uygulama, ürün verilerini almak için bir API ile entegre edilmiştir. API uç
 - Ana Sayfa: Uygulama açıldığında, kullanıcılar tüm ürünleri görebilir. Ürünler arasında gezinmek için kaydırma yapabilirler.
 - Ürün Detay Sayfası: Bir ürüne tıkladıklarında, ürünün detay sayfasına yönlendirilirler. Burada ürün açıklaması, fiyatı ve "Sepete Ekle" butonu bulunmaktadır.
 - Sepet Sayfası: Kullanıcılar, sepete ekledikleri ürünleri görüntüleyebilir ve toplam tutarlarını görebilirler. Sepetten ürün çıkarma işlemi de yapılabilir.# ShopZone
+
+<h1>DEMO</h1>
+
+![](/shopzone.gif)

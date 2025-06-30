@@ -5,7 +5,9 @@
 @tailwind components;
 @tailwind utilities;
 
-body{  font-family: "Nunito", sans-serif;}
+body{
+  
+    font-family: "Nunito", sans-serif;}
 
 .paginate{
     display: flex;
